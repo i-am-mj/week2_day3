@@ -1,0 +1,6 @@
+i = 1
+j = 2
+k = 3
+m = i+j+k
+print(m)
+print("The System is Verified. I am Ghost")
